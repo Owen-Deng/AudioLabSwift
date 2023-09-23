@@ -35,7 +35,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xzl-eD-7Us">
-                                <rect key="frame" x="20" y="659" width="374" height="35"/>
+                                <rect key="frame" x="20" y="659" width="374" height="34.5"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="Play or Detect"/>
                                 <connections>
@@ -49,8 +49,8 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="YB8-JK-DSb" secondAttribute="trailing" constant="20" id="07I-rt-aUI"/>
                             <constraint firstItem="j2d-ef-Pho" firstAttribute="top" secondItem="YB8-JK-DSb" secondAttribute="bottom" constant="8" symbolic="YES" id="4wO-Dq-EiC"/>
                             <constraint firstItem="YB8-JK-DSb" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="CG7-N7-eeg"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Xzl-eD-7Us" secondAttribute="trailing" constant="20" id="Nv0-7r-kFI"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="j2d-ef-Pho" secondAttribute="trailing" constant="20" id="R5b-5d-esr"/>
-                            <constraint firstItem="Xzl-eD-7Us" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="bph-Ox-In4"/>
                             <constraint firstItem="Xzl-eD-7Us" firstAttribute="leading" secondItem="j2d-ef-Pho" secondAttribute="leading" id="k1K-0i-6O8"/>
                             <constraint firstItem="YB8-JK-DSb" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="ksd-gZ-nu1"/>
                             <constraint firstItem="Xzl-eD-7Us" firstAttribute="top" secondItem="j2d-ef-Pho" secondAttribute="bottom" constant="8" id="l1n-96-1JO"/>
@@ -78,20 +78,25 @@
                             <tableViewSection id="u3p-TA-Ex7">
                                 <cells>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" id="AyD-Bg-59w">
-                                        <rect key="frame" x="0.0" y="50" width="414" height="43.5"/>
+                                        <rect key="frame" x="0.0" y="50" width="414" height="43"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="AyD-Bg-59w" id="0fg-T8-u2q">
-                                            <rect key="frame" x="0.0" y="0.0" width="414" height="43.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="43"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Enter AudioPage" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3L8-JM-XBP">
-                                                    <rect key="frame" x="20" y="11" width="127" height="21"/>
-                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter AudioPage" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3L8-JM-XBP">
+                                                    <rect key="frame" x="20" y="11" width="374" height="21"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
+                                            <constraints>
+                                                <constraint firstAttribute="trailingMargin" secondItem="3L8-JM-XBP" secondAttribute="trailing" id="1sE-C1-Iid"/>
+                                                <constraint firstItem="3L8-JM-XBP" firstAttribute="top" secondItem="0fg-T8-u2q" secondAttribute="topMargin" id="29n-e0-mGu"/>
+                                                <constraint firstItem="3L8-JM-XBP" firstAttribute="leading" secondItem="0fg-T8-u2q" secondAttribute="leadingMargin" id="qqb-fh-UXG"/>
+                                                <constraint firstAttribute="bottomMargin" secondItem="3L8-JM-XBP" secondAttribute="bottom" id="svR-z0-r7a"/>
+                                            </constraints>
                                         </tableViewCellContentView>
                                         <connections>
                                             <segue destination="BYZ-38-t0r" kind="show" id="nbi-BC-LB4"/>
