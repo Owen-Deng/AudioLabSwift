@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE3CE8CA-FED4-41F3-B30D-6A4481F0EFDE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AF48FB9-F982-490A-84C6-B08B3CBB6E64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioLabSwift/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "graph"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0AF48FB9-F982-490A-84C6-B08B3CBB6E64 - 74f0bd8260ae4b2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioLabSwift.ViewController.graph.getter : Swift.Optional&lt;AudioLabSwift.MetalGraph&gt;"
+                  moduleName = "AudioLabSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owen/Projects/AudioLabSwift-5_FFTAudioGraphing%202/AudioLabSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "189">
+               </Location>
+               <Location
+                  uuid = "0AF48FB9-F982-490A-84C6-B08B3CBB6E64 - 82337a0487e4a613"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; AudioLabSwift.MetalGraph in AudioLabSwift.ViewController.graph.getter : Swift.Optional&lt;AudioLabSwift.MetalGraph&gt;"
+                  moduleName = "AudioLabSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owen/Projects/AudioLabSwift-5_FFTAudioGraphing%202/AudioLabSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "33">
+               </Location>
+               <Location
+                  uuid = "0AF48FB9-F982-490A-84C6-B08B3CBB6E64 - d232cf6d6a718b1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioLabSwift.ViewController.graph.setter : Swift.Optional&lt;AudioLabSwift.MetalGraph&gt;"
+                  moduleName = "AudioLabSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owen/Projects/AudioLabSwift-5_FFTAudioGraphing%202/AudioLabSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "0AF48FB9-F982-490A-84C6-B08B3CBB6E64 - b8b169f4ef71cb2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioLabSwift.ViewController.graph.modify : Swift.Optional&lt;AudioLabSwift.MetalGraph&gt;"
+                  moduleName = "AudioLabSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owen/Projects/AudioLabSwift-5_FFTAudioGraphing%202/AudioLabSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0AF48FB9-F982-490A-84C6-B08B3CBB6E64 - 79d275ad6c09ac0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioLabSwift.ViewController.graph.modify : Swift.Optional&lt;AudioLabSwift.MetalGraph&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AudioLabSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owen/Projects/AudioLabSwift-5_FFTAudioGraphing%202/AudioLabSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "0AF48FB9-F982-490A-84C6-B08B3CBB6E64 - c24906f4dc083605"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioLabSwift.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AudioLabSwift.ViewController"
+                  moduleName = "AudioLabSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owen/Projects/AudioLabSwift-5_FFTAudioGraphing%202/AudioLabSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "309">
+               </Location>
+               <Location
+                  uuid = "0AF48FB9-F982-490A-84C6-B08B3CBB6E64 - 6bc0d684573c3fc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioLabSwift.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AudioLabSwift.ViewController&gt;"
+                  moduleName = "AudioLabSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owen/Projects/AudioLabSwift-5_FFTAudioGraphing%202/AudioLabSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "263">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE17D1DC-F9A8-411B-94BB-407D53A08503"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioLabSwift/AudioModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "runEveryInterval()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F7704D7-C9EF-49C6-9618-F7A8074F5B1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioLabSwift/AudioModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "handleSpeakerQueryWithAudioFile(data:numFrames:numChannels:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F7704D7-C9EF-49C6-9618-F7A8074F5B1C - 3f198f6e30f1bc76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioLabSwift.AudioModel.handleSpeakerQueryWithAudioFile(data: Swift.Optional&lt;Swift.UnsafeMutablePointer&lt;Swift.Float&gt;&gt;, numFrames: Swift.UInt32, numChannels: Swift.UInt32) -&gt; ()"
+                  moduleName = "AudioLabSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owen/Projects/AudioLabSwift-5_FFTAudioGraphing%202/AudioLabSwift/AudioModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "8F7704D7-C9EF-49C6-9618-F7A8074F5B1C - 3f198f6e30f1bc11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioLabSwift.AudioModel.handleSpeakerQueryWithAudioFile(data: Swift.Optional&lt;Swift.UnsafeMutablePointer&lt;Swift.Float&gt;&gt;, numFrames: Swift.UInt32, numChannels: Swift.UInt32) -&gt; ()"
+                  moduleName = "AudioLabSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owen/Projects/AudioLabSwift-5_FFTAudioGraphing%202/AudioLabSwift/AudioModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE84910E-1161-41F3-A7D7-778D22BC6F9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioLabSwift/AudioModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "fileReader"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5F2F05F-D86B-4F88-86EA-FBFF778BD314"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioLabSwift/AudioModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "inputBuffer"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CCBAFFA-CE51-4771-A59A-4A8F4E31E7EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioLabSwift/AudioModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2CCBAFFA-CE51-4771-A59A-4A8F4E31E7EF - a5eec83a215f856b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioLabSwift.AudioModel.init() -&gt; AudioLabSwift.AudioModel"
+                  moduleName = "AudioLabSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owen/Projects/AudioLabSwift-5_FFTAudioGraphing%202/AudioLabSwift/AudioModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1003">
+               </Location>
+               <Location
+                  uuid = "2CCBAFFA-CE51-4771-A59A-4A8F4E31E7EF - a5eec83a215f856b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioLabSwift.AudioModel.init() -&gt; AudioLabSwift.AudioModel"
+                  moduleName = "AudioLabSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owen/Projects/AudioLabSwift-5_FFTAudioGraphing%202/AudioLabSwift/AudioModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "989">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9A304C5-79C3-4F1B-AB55-F3C3F8291152"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioLabSwift/AudioModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "togglePlaying()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2970419E-65A9-43DF-B950-6D243D5CCED8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioLabSwift/AudioModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "togglePlaying()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CB3C0E5-C8C6-45BC-A554-AFEDAA60BB1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioLabSwift/AudioModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "startProcesingAudioFileForPlayback()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48169A1C-5888-4634-A416-FE5322ED09E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioLabSwift/AudioModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "startProcesingAudioFileForPlayback()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
